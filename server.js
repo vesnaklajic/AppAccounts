@@ -12,6 +12,10 @@ app.get('/',(req,res)=>{
     })   
 })
 
+app.get('/add',(req,res)=>{
+    res.render('add_view')
+})
+
 app.listen('3000',()=>{
     console.log("Listening server on 3000");
 })
