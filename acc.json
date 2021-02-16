@@ -1,0 +1,21 @@
+[
+{"first_name":"Vesna",
+    "last_name":"Klajic",
+    "email":"vesna@gmail.com",
+    "password":"1234",
+    "tel":"777 77 77"
+},
+{"first_name":"Mimi",
+    "last_name":"Doe",
+    "email":"mimi@gmail.com",
+    "password":"5678",
+    "tel":"33  33 3 "
+},
+{"first_name":"Jana",
+    "last_name":"Smith",
+    "email":"jana@gmail.com",
+    "password":"9876",
+    "tel":"111 11 1"
+}
+
+]
